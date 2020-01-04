@@ -10,6 +10,9 @@
 *  Performing TF-IDF scoring of the retrieved results.
 
 Formulas to calculate TF-IDF:
+
 TF(t) = (Number of times term t appears in a document) / (Total number of terms in the document).
+
 IDF(t) = (Total number of documents / Number of documents with term t in it).
+
 TF-IDF(t)  = TF(t) * IDF(t)
